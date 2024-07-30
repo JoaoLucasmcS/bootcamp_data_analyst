@@ -24,4 +24,8 @@ O objetivo deste repositório é documentar meu progresso e servir como uma refe
 
 Sinta-se à vontade para explorar e acompanhar meu aprendizado!
 
+## Minhas Anotações no Notion :
+
+https://www.notion.so/Data-Analyst-SQL-3a052265395646db8a5a8831766daf28
+
 ---
